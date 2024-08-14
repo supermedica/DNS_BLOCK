@@ -4,7 +4,6 @@
 # with a dash of crowd sourcing via GitHub
 #
 # Date: 11 August 2024 17:52:36 (UTC)
-# The unified hosts file was not used while generating this file.
 # Extensions used to generate this file: social
 # Number of unique domains: 3,221
 #
