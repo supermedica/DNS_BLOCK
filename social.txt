@@ -3218,3 +3218,5 @@
 0.0.0.0	mta.youtube.com
 0.0.0.0	dev.youtube.com
 0.0.0.0	home.youtube.com
+0.0.0.0	www.youtube.com
+0.0.0.0	youtube.com
